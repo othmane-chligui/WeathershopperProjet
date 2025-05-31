@@ -1,0 +1,5 @@
+pytest
+selenium
+mysql-connector-python
+allure-pytest
+configparser
