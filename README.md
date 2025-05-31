@@ -44,7 +44,7 @@ weathershopper-automation/
 
 1. Cloner le dépôt :
    ```cmd
-   git clone <url-du-repo>
+   git clone https://github.com/othmane-chligui/WeathershopperProjet
    cd weathershopper-automation
    ```
 2. Installer les dépendances :
