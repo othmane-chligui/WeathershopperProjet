@@ -128,6 +128,7 @@ allure generate allure-results -o allure-report --clean
 Ouvrir le rapport dans le navigateur
 allure open allure-report
 ```
+![image](https://github.com/user-attachments/assets/5a08305c-78ff-4372-a5d2-ab6318f9e279)
 
 ## Flux de test
 1. Accès à la page d'accueil
