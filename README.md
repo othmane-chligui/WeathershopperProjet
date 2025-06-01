@@ -21,7 +21,7 @@ Ce projet automatisé teste le site WeatherShopper qui adapte ses produits en fo
 
 ## Structure du projet
 ```
-weathershopper-automation/
+WeathershopperProjet/
 ├── config.ini               # Fichier de configuration
 ├── conftest.py              # Configuration Pytest et Allure
 ├── requirements.txt         # Dépendances Python
@@ -45,7 +45,7 @@ weathershopper-automation/
 1. Cloner le dépôt :
    ```cmd
    git clone https://github.com/othmane-chligui/WeathershopperProjet
-   cd weathershopper-automation
+   cd WeathershopperProjet
    ```
 2. Installer les dépendances :
    ```cmd
